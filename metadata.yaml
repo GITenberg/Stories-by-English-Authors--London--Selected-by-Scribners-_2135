@@ -1,0 +1,78 @@
+_repo: Stories-by-English-Authors--London--Selected-by-Scribners-_2135
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Morrison, Arthur
+    birthdate: &id001 1863
+    deathdate: 1945
+    gutenberg_agent_id: '3903'
+    url: http://www.gutenberg.org/2009/agents/3903
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Morrison
+  - agent_name: Quiller-Couch, Arthur
+    aliases:
+    - Q
+    - Quiller-Couch, Sir Arthur Thomas
+    - Quiller-Couch, Arthur Thomas
+    - Quiller-Couch, A. T. (Arthur Thomas)
+    birthdate: *id001
+    deathdate: 1944
+    gutenberg_agent_id: '3579'
+    url: http://www.gutenberg.org/2009/agents/3579
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
+  - agent_name: Zangwill, Israel
+    alias: Zangwill, I. (Israel)
+    birthdate: &id002 1864
+    deathdate: 1926
+    gutenberg_agent_id: '1987'
+    url: http://www.gutenberg.org/2009/agents/1987
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Zangwill
+  - agent_name: Corelli, Marie
+    aliases:
+    - Mackay, Mary
+    - Corelli, Maria
+    birthdate: 1855
+    deathdate: 1924
+    gutenberg_agent_id: '1321'
+    url: http://www.gutenberg.org/2009/agents/1321
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Corelli
+  - agent_name: Harraden, Beatrice
+    birthdate: *id002
+    deathdate: 1936
+    gutenberg_agent_id: '4389'
+    url: http://www.gutenberg.org/2009/agents/4389
+    wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
+  - agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+  - agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2006-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: The Inconsiderate Waiter, By J. M. Barrie -- The Black Poodle, By
+  F. Anstey -- That Brute Simmons, By Arthur Morrison -- A Rose Of The Ghetto, By
+  I. Zangwill -- An Idyl Of London, By Beatrice Harraden -- The Omnibus, "Q" [Quiller-Couch]
+  -- The Hired Baby, By Marie Correlli
+title: 'Stories by English Authors: London (Selected by Scribners)'
+url: http://www.gutenberg.org/ebooks/2135
