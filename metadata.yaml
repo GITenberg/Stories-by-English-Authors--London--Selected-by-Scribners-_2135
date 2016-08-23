@@ -1,9 +1,9 @@
 _repo: Stories-by-English-Authors--London--Selected-by-Scribners-_2135
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributors:
   - agent_name: Morrison, Arthur
-    birthdate: &id001 1863
+    birthdate: 1863
     deathdate: 1945
     gutenberg_agent_id: '3903'
     url: http://www.gutenberg.org/2009/agents/3903
@@ -14,14 +14,14 @@ contributor:
     - Quiller-Couch, Sir Arthur Thomas
     - Quiller-Couch, Arthur Thomas
     - Quiller-Couch, A. T. (Arthur Thomas)
-    birthdate: *id001
+    birthdate: 1863
     deathdate: 1944
     gutenberg_agent_id: '3579'
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
   - agent_name: Zangwill, Israel
     alias: Zangwill, I. (Israel)
-    birthdate: &id002 1864
+    birthdate: 1864
     deathdate: 1926
     gutenberg_agent_id: '1987'
     url: http://www.gutenberg.org/2009/agents/1987
@@ -36,7 +36,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/1321
     wikipedia: http://en.wikipedia.org/wiki/Marie_Corelli
   - agent_name: Harraden, Beatrice
-    birthdate: *id002
+    birthdate: 1864
     deathdate: 1936
     gutenberg_agent_id: '4389'
     url: http://www.gutenberg.org/2009/agents/4389
