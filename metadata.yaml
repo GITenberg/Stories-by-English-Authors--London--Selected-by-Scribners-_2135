@@ -1,5 +1,5 @@
 _repo: Stories-by-English-Authors--London--Selected-by-Scribners-_2135
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Morrison, Arthur
@@ -55,7 +55,12 @@ contributor:
     gutenberg_agent_id: '6137'
     url: http://www.gutenberg.org/2009/agents/6137
     wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2135#Stories-by-English-Authors--London--Selected-by-Scribners-
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2006-03-26'
 gutenberg_type: Text
